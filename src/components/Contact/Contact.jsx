@@ -58,8 +58,8 @@ const Contact = () => {
           </li>
           <li>
             <img src={location} alt="" />
-            Menchester United Football groud <br />
-            Just in the hole undernieth
+            East Bengal Football groud <br />
+            Football Ground
           </li>
         </ul>
       </div>
